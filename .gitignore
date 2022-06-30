@@ -1,0 +1,14 @@
+# eclise environments
+.classpath
+.project
+.class
+.war
+.zip
+.rar
+# idea environment
+.idea
+*.iml
+.settings/*
+# maven environment
+/target/*
+/target/
